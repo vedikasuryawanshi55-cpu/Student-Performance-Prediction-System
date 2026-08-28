@@ -1,4 +1,5 @@
-# Student-Performance-Prediction-System
+# 🎓 Student Performance Analytics
+
 ## 📌 Project Overview
 
 Student Performance Analytics is a Data Science and Machine Learning application designed to analyze student academic performance, identify important performance factors, visualize data-driven insights, and predict a student's expected final score.
